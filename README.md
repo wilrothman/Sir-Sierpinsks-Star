@@ -1,4 +1,4 @@
-# Sir-Sierpinsks-Star
+# Sir-Sierpinskis-Star
 A project I submitted to a competition in my first year undergraduate Computer Science for majors class. It is several Sierpinski triangles displayed in different orientations on a 3D game engine I made using their version of Scheme and a provided 2D Turtle library.
 
 This project was my submission to a project for a class I took (COMPSCI 61A) for my Computer Science major as a first-year undergrad at UC Berkeley. It uses a three-dimension game engine I made from scratch (in the source code) using Scheme and a 2D Turtle provided by course staff. Specifically, I made my custom graphics engine render intersecting Sierpinski triangles (https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) of arbitrary fractal complexity in color-coordinated models and rotated at various angles. If I learned anything from this project, it is that I probably should not have rotated it at angles without pattern. Oh well, you live and you learn.
