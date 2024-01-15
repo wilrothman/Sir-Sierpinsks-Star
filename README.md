@@ -1,4 +1,10 @@
 # Sir-Sierpinskis-Star
-This project was my submission to a project for a class I took (COMPSCI 61A) for my Computer Science major as a first-year undergrad at UC Berkeley. It uses a three-dimension game engine I made from scratch (in the source code) using Scheme and a 2D Turtle provided by course staff. Specifically, I made my custom graphics engine render intersecting Sierpinski triangles (https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) of arbitrary fractal complexity in color-coordinated models and rotated at various angles. If I learned anything from this project, it is that I probably should not have rotated it at angles without pattern. Oh well, you live and you learn.
+### About
+A submission to a [project hosted by the Berkeley EECS department](https://inst.eecs.berkeley.edu/~cs61a/fa22/proj/scheme_gallery/). It uses a 3D game engine made from scratch using Scheme and a 2D turtle. The image depicts intersecting [Sierpinski triangles](https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle) of arbitrary fractal complexity in color-coordinated models and rotated at various angles. If I learned anything from this project, it is that I probably should not have rotated it at angles without pattern. 
 
+### Contest
 Unfortunately, I did not win the contest. It had dozens of impressive submissions and I am not upset about it-- I see it more as a learning opportunity and as inspiration to try harder than ever before. Attached is a GitHub link to an image of the rendered product and the source code. The instructions for the project can be found at https://inst.eecs.berkeley.edu/~cs61a/fa22/proj/scheme_gallery/.
+
+### Files
+`Screenshot of Project.png`: An image of the rendered, final project.
+`contest-submission.scm`: Scheme file, source code.
