@@ -8,3 +8,6 @@ Unfortunately, I did not win the contest. It had dozens of impressive submission
 ### Files
 `Screenshot of Project.png`: An image of the rendered, final project.
 `contest-submission.scm`: Scheme file, source code.
+
+### 02-16-24 Edit
+Added a separate file for the Python code.
