@@ -358,7 +358,7 @@
   (pixelsize 5)
 
   ;; The background stars were randomly generated using the python function, which I wrote:
-  ;; >>> from random import 
+  ;; >>> from random import *
   ;; >>> def r(lower, upper, n):
   ;; ...    for i in range(n):
   ;; ...       x, y = randrange(lower, upper), randrange(lower, upper)
