@@ -1,4 +1,4 @@
-from random import 
+from random import *
 def r(lower, upper, n):
   for i in range(n):
     x, y = randrange(lower, upper), randrange(lower, upper)
